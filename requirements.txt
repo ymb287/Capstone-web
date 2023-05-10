@@ -1,0 +1,6 @@
+streamlit
+pandas
+wlwings
+base64
+tempfile
+os
