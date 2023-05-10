@@ -1,6 +1,6 @@
 streamlit
 pandas
-wlwings
+xlwings
 base64
 tempfile
 os
